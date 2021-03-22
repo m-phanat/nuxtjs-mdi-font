@@ -25,6 +25,6 @@
     "lib"
   ],
   "dependencies": {
-    "@mdi/font": "^4.1.95"
+    "@mdi/font": "^5.9.55"
   }
 }
